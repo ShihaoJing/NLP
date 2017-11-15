@@ -1,0 +1,1 @@
+(ROOT  (S (NP (NP (Det every) (Noun sandwich)) (PP (Prep under) (NP (Det a) (Noun sandwich)))) (VP (Verb understood) (NP (Det the) (Noun staff)))) !)
